@@ -1,7 +1,8 @@
-# ZICA_ENIGMA
+ZICA_ENIGMA
+===
 Z Instant Comprehensive ABAP - The Enigma Machine Demo
 
-# Introduction
+### Introduction
 
 The Enigma Machine is a cryptography device that was used by Germany during the World War II. It granted secure communications between military headquarters and troops. Because it's design is so simple, cheap and portable, Enigmas can be used anywhere, and they were.
 
@@ -11,7 +12,7 @@ So I decided that I should learn more about it. And so I did. I read articles, m
 
 This project is the result of that effort.
 
-# Project Goals
+### Project Goals
 
 I knew from the very first day that this project is useless. Afterall, Enigma's cipher isn't useful anymore. But at the same time, the process of understanding and building it is a very nice exercise on the basics of ABAP programming, Object-oriented programming and cryptography.
 
